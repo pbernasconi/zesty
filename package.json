@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "handlebars": "^4.0.2",
-    "hipchatter": "^0.2.0",
     "ramda": "0.17.x",
     "request-promise": "0.4.x",
     "sanctuary": "0.6.x"
