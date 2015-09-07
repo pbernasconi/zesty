@@ -1,0 +1,24 @@
+{
+  "name": "plaid-zesty-extractor",
+  "displayName": "Zesty",
+  "description": "In order to avoid eating tacos twice in one day, we now have ZestyBot, the food extractor",
+  "version": "1.0.0",
+  "author": {
+    "name": "Paolo Bernasconi"
+  },
+  "license": "Apache 2.0",
+  "engines": {
+    "node": "0.12.7",
+    "npm": "2.1.x"
+  },
+  "scripts": {
+    "web": "node --harmony web.js"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.2",
+    "hipchatter": "^0.2.0",
+    "ramda": "0.17.x",
+    "request-promise": "0.4.x",
+    "sanctuary": "0.6.x"
+  }
+}
